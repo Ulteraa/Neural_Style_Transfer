@@ -2,7 +2,8 @@
 
 Style images:
 
-![nns](https://user-images.githubusercontent.com/29463052/212563556-fd8a4711-9d31-4eb7-8a78-a370b7956a12.jpg)
+![nns](https://user-images.githubusercontent.com/29463052/212563775-c307ed83-6d9d-4be8-8108-e9997c619d8b.jpg)
+
 
 
 output :
