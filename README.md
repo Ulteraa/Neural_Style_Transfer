@@ -2,7 +2,8 @@
 
 Style images:
 
-![nns](https://user-images.githubusercontent.com/29463052/212563775-c307ed83-6d9d-4be8-8108-e9997c619d8b.jpg)
+![nns](https://user-images.githubusercontent.com/29463052/212563822-57d14d0a-21b4-49cf-828b-fa15b9f3c39f.jpg)
+
 
 
 
