@@ -6,7 +6,7 @@ Style images:
 
 
 
-output :
+Style transfered images:
 
 
 ![nns_r](https://user-images.githubusercontent.com/29463052/212563581-51af6a07-75e1-41c5-ad86-f5417bed22e8.jpg)
